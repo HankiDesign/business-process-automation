@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "projectName": {
-            "value": ""
+            "value": "etksieapworie6"
           },
           "repositoryToken": {
-            "value": ""
+            "value": "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"
           },
           "repositoryUrl": {
-            "value": ""
+            "value": "https://github.com/HankiDesign/business-process-automation"
           }
     }
 }
